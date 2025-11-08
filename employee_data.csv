@@ -1,0 +1,51 @@
+EmployeeID|FirstName|LastName|Gender|Age|Department|Position|Country|City|Email|PhoneNumber|HireDate|Salary|Bonus|Manager|PerformanceScore|RemoteWork|ContractType|EmployeeStatus|LastPromotionDate
+1|Emma|Brown|Male|37|Sales|Engineer|Spain|New York|employee1@example.com|+1-555-5575|2010-05-29|94345|12976|True|B|False|Contract|Terminated|2016-03-18
+2|Sofia|Garcia|Female|28|Marketing|Specialist|Germany|Mumbai|employee2@example.com|+1-555-2378|2013-03-06|113900|15862|False|C|True|Part-time|Terminated|2023-01-17
+3|Maria|Jones|Female|25|Marketing|Analyst|UK|Tokyo|employee3@example.com|+1-555-7891|2012-10-13|76047|9218|True|B|True|Contract|Active|2018-07-23
+4|Alex|Johnson|Female|30|HR|Manager|Spain|Tokyo|employee4@example.com|+1-555-4217|2018-07-23|94065|10381|True|B|True|Full-time|Active|2016-02-02
+5|Ava|Brown|Female|34|Customer Support|Assistant|Japan|Toronto|employee5@example.com|+1-555-3058|2010-01-02|44337|9991|False|C|False|Contract|Terminated|2018-06-24
+6|Sofia|Smith|Male|33|Finance|Manager|UK|London|employee6@example.com|+1-555-2658|2016-04-21|73014|5411|False|D|False|Contract|Active|2019-02-25
+7|Maria|Martinez|Male|41|HR|Assistant|Japan|Bogotá|employee7@example.com|+1-555-8489|2020-03-23|87231|1327|True|B|True|Full-time|Terminated|2022-10-31
+8|Olivia|Lopez|Male|26|Customer Support|Manager|Germany|São Paulo|employee8@example.com|+1-555-8783|2012-03-16|85239|1889|True|B|False|Full-time|On Leave|2018-01-21
+9|Liam|Miller|Female|32|Customer Support|Consultant|France|Madrid|employee9@example.com|+1-555-3843|2017-04-16|111891|2449|False|C|True|Part-time|Terminated|2023-04-05
+10|Ethan|Jones|Male|35|Operations|Coordinator|USA|Tokyo|employee10@example.com|+1-555-5494|2010-06-26|59037|14563|True|B|False|Contract|Terminated|2023-10-27
+11|Maria|Jones|Female|27|HR|Engineer|USA|Madrid|employee11@example.com|+1-555-3662|2014-09-26|85837|11487|True|A|False|Full-time|Active|2015-05-29
+12|Emma|Johnson|Female|45|Legal|Manager|France|Toronto|employee12@example.com|+1-555-9982|2015-12-02|102498|1097|True|C|False|Full-time|On Leave|2022-06-24
+13|Maria|Lopez|Male|28|Customer Support|Engineer|India|Bogotá|employee13@example.com|+1-555-1367|2017-01-16|45730|12001|True|B|True|Full-time|Active|2019-03-17
+14|Olivia|Lopez|Female|49|HR|Assistant|Brazil|New York|employee14@example.com|+1-555-8534|2021-04-29|101155|13623|False|D|False|Part-time|Terminated|2022-07-19
+15|Olivia|Williams|Female|59|Marketing|Specialist|Japan|Bogotá|employee15@example.com|+1-555-7720|2018-08-30|45392|16652|False|A|True|Contract|Active|2021-11-24
+16|Ava|Davis|Male|56|Finance|Manager|UK|São Paulo|employee16@example.com|+1-555-2365|2021-11-30|63375|9572|True|C|True|Full-time|Terminated|2023-05-26
+17|Alex|Davis|Male|50|Sales|Specialist|Japan|Berlin|employee17@example.com|+1-555-4894|2017-10-05|60417|12276|False|D|True|Full-time|Terminated|2020-01-15
+18|Ethan|Miller|Male|58|IT|Coordinator|India|Madrid|employee18@example.com|+1-555-5650|2020-03-14|69582|782|True|B|True|Contract|Active|2022-06-28
+19|Liam|Lopez|Female|24|HR|Coordinator|USA|Toronto|employee19@example.com|+1-555-1415|2016-01-01|94339|13993|True|A|False|Contract|On Leave|2020-03-05
+20|Noah|Miller|Female|39|HR|Specialist|Japan|São Paulo|employee20@example.com|+1-555-6320|2020-06-30|67079|13024|False|A|False|Contract|On Leave|2022-07-18
+21|Ava|Davis|Male|22|IT|Analyst|Brazil|London|employee21@example.com|+1-555-6199|2017-02-10|65622|16757|False|D|True|Full-time|Terminated|2021-08-30
+22|Maria|Martinez|Male|39|Finance|Engineer|Spain|São Paulo|employee22@example.com|+1-555-3806|2014-02-12|100569|12958|False|C|True|Full-time|On Leave|2019-12-08
+23|Noah|Smith|Female|40|Sales|Analyst|Colombia|Mumbai|employee23@example.com|+1-555-2599|2012-03-08|108356|16963|True|C|True|Contract|Active|2016-02-24
+24|Emma|Johnson|Female|34|IT|Analyst|Canada|Bogotá|employee24@example.com|+1-555-4668|2021-04-05|39122|12999|True|A|False|Full-time|Active|2015-09-14
+25|Sofia|Lopez|Female|60|Legal|Analyst|USA|New York|employee25@example.com|+1-555-8504|2018-05-21|72522|11587|False|D|True|Full-time|Active|2020-06-15
+26|Alex|Brown|Female|27|Finance|Analyst|Canada|Berlin|employee26@example.com|+1-555-4957|2013-05-03|75389|19366|False|D|False|Contract|Active|2016-09-14
+27|Noah|Lopez|Female|40|Operations|Assistant|USA|Berlin|employee27@example.com|+1-555-9127|2014-01-21|40462|546|False|C|True|Part-time|Terminated|2023-01-19
+28|Noah|Garcia|Female|48|Marketing|Engineer|Japan|London|employee28@example.com|+1-555-1812|2010-12-19|69447|11176|False|C|True|Part-time|Active|2020-05-19
+29|Ava|Brown|Female|29|Legal|Analyst|Germany|Bogotá|employee29@example.com|+1-555-1961|2018-08-14|78479|14948|False|B|True|Full-time|Active|2019-05-18
+30|Liam|Miller|Female|35|Legal|Consultant|Germany|Tokyo|employee30@example.com|+1-555-2365|2021-04-23|61840|6933|True|C|True|Part-time|Active|2021-09-26
+31|Alex|Davis|Female|59|Sales|Coordinator|India|Toronto|employee31@example.com|+1-555-3675|2014-05-04|114512|7232|False|A|True|Part-time|On Leave|2020-05-26
+32|Ethan|Johnson|Female|50|Customer Support|Engineer|France|Paris|employee32@example.com|+1-555-5473|2020-08-06|101846|15046|False|B|False|Full-time|Active|2017-12-18
+33|Ava|Garcia|Female|41|IT|Assistant|UK|Tokyo|employee33@example.com|+1-555-2224|2015-12-09|116819|8207|False|C|False|Part-time|Active|2022-11-14
+34|John|Garcia|Male|35|Customer Support|Engineer|UK|Tokyo|employee34@example.com|+1-555-8311|2017-09-21|99308|1935|True|B|False|Contract|Active|2018-07-15
+35|Olivia|Jones|Male|23|IT|Engineer|India|London|employee35@example.com|+1-555-2736|2015-09-20|44553|16742|False|A|False|Full-time|Active|2016-03-06
+36|Ethan|Jones|Female|41|Legal|Engineer|India|Toronto|employee36@example.com|+1-555-2938|2020-11-24|80415|8149|True|D|False|Part-time|Terminated|2017-12-19
+37|John|Garcia|Female|43|Customer Support|Consultant|Spain|Bogotá|employee37@example.com|+1-555-8431|2020-12-07|117922|3972|False|C|False|Part-time|Terminated|2022-09-11
+38|John|Martinez|Female|23|Marketing|Specialist|Germany|Paris|employee38@example.com|+1-555-4292|2015-10-23|112622|14045|False|D|True|Full-time|Active|2021-01-11
+39|Sofia|Miller|Male|50|Legal|Specialist|UK|Bogotá|employee39@example.com|+1-555-2959|2013-12-24|56773|3667|True|B|True|Full-time|On Leave|2022-08-14
+40|Liam|Smith|Male|24|Legal|Analyst|Canada|Paris|employee40@example.com|+1-555-9644|2022-11-21|93676|3614|True|C|False|Part-time|Active|2021-07-21
+41|Sofia|Williams|Male|51|IT|Assistant|Canada|London|employee41@example.com|+1-555-3679|2022-12-07|79862|19430|True|B|False|Full-time|Terminated|2016-02-11
+42|Olivia|Smith|Male|33|Legal|Specialist|France|Mumbai|employee42@example.com|+1-555-1022|2018-07-11|117023|18789|False|A|True|Contract|Terminated|2017-01-14
+43|Noah|Johnson|Female|51|IT|Analyst|Brazil|New York|employee43@example.com|+1-555-7753|2011-03-18|114393|14057|True|D|True|Contract|Terminated|2023-02-07
+44|Liam|Garcia|Male|33|Customer Support|Engineer|Colombia|Madrid|employee44@example.com|+1-555-3974|2019-01-08|109545|1455|True|D|False|Contract|Active|2017-12-19
+45|Olivia|Garcia|Male|52|Legal|Analyst|Germany|New York|employee45@example.com|+1-555-4001|2011-11-23|91537|8665|False|D|False|Contract|On Leave|2023-04-06
+46|Maria|Garcia|Female|22|Finance|Coordinator|Canada|London|employee46@example.com|+1-555-8097|2013-03-29|99424|5701|False|B|True|Contract|Active|2016-09-09
+47|Sofia|Williams|Female|48|Marketing|Engineer|Germany|Madrid|employee47@example.com|+1-555-4671|2012-05-17|106403|2659|False|A|False|Part-time|On Leave|2020-12-28
+48|Sofia|Brown|Female|57|IT|Engineer|India|Tokyo|employee48@example.com|+1-555-7257|2015-02-06|70883|13885|True|B|False|Contract|On Leave|2019-06-12
+49|Liam|Brown|Female|38|HR|Analyst|UK|São Paulo|employee49@example.com|+1-555-3454|2010-12-08|56367|7297|False|B|False|Part-time|On Leave|2016-02-03
+50|Sofia|Lopez|Female|47|IT|Manager|India|London|employee50@example.com|+1-555-6049|2013-12-23|71956|5991|True|B|True|Contract|Terminated|2023-08-05

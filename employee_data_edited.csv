@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,Position,Country,City,Email,PhoneNumber,HireDate,Salary,Bonus,Manager,PerformanceScore,RemoteWork,ContractType,EmployeeStatus,LastPromotionDate
+1,Emma,Brown,Male,37,Sales,Engineer,Spain,New York,employee1@example.com,-6129,29/05/2010,94345,12976,TRUE,B,FALSE,Contract,Terminated,18/03/2016
+2,Sofia,Garcia,Female,28,Marketing,Specialist,Germany,Mumbai,employee2@example.com,-2932,06/03/2013,113900,15862,FALSE,C,TRUE,Part-time,Terminated,17/01/2023
+3,Maria,Jones,Female,25,Marketing,Analyst,UK,Tokyo,employee3@example.com,-8445,13/10/2012,76047,9218,TRUE,B,TRUE,Contract,Active,23/07/2018
+4,Alex,Johnson,Female,30,HR,Manager,Spain,Tokyo,employee4@example.com,-4771,23/07/2018,94065,10381,TRUE,B,TRUE,Full-time,Active,02/02/2016
+5,Ava,Brown,Female,34,Customer Support,Assistant,Japan,Toronto,employee5@example.com,-3612,02/01/2010,44337,9991,FALSE,C,FALSE,Contract,Terminated,24/06/2018
+6,Sofia,Smith,Male,33,Finance,Manager,UK,London,employee6@example.com,-3212,21/04/2016,73014,5411,FALSE,D,FALSE,Contract,Active,25/02/2019
+7,Maria,Martinez,Male,41,HR,Assistant,Japan,Bogotá,employee7@example.com,-9043,23/03/2020,87231,1327,TRUE,B,TRUE,Full-time,Terminated,31/10/2022
+8,Olivia,Lopez,Male,26,Customer Support,Manager,Germany,São Paulo,employee8@example.com,-9337,16/03/2012,85239,1889,TRUE,B,FALSE,Full-time,On Leave,21/01/2018
+9,Liam,Miller,Female,32,Customer Support,Consultant,France,Madrid,employee9@example.com,-4397,16/04/2017,111891,2449,FALSE,C,TRUE,Part-time,Terminated,05/04/2023
+10,Ethan,Jones,Male,35,Operations,Coordinator,USA,Tokyo,employee10@example.com,-6048,26/06/2010,59037,14563,TRUE,B,FALSE,Contract,Terminated,27/10/2023
+11,Maria,Jones,Female,27,HR,Engineer,USA,Madrid,employee11@example.com,-4216,26/09/2014,85837,11487,TRUE,A,FALSE,Full-time,Active,29/05/2015
+12,Emma,Johnson,Female,45,Legal,Manager,France,Toronto,employee12@example.com,-10536,02/12/2015,102498,1097,TRUE,C,FALSE,Full-time,On Leave,24/06/2022
+13,Maria,Lopez,Male,28,Customer Support,Engineer,India,Bogotá,employee13@example.com,-1921,16/01/2017,45730,12001,TRUE,B,TRUE,Full-time,Active,17/03/2019
+14,Olivia,Lopez,Female,49,HR,Assistant,Brazil,New York,employee14@example.com,-9088,29/04/2021,101155,13623,FALSE,D,FALSE,Part-time,Terminated,19/07/2022
+15,Olivia,Williams,Female,59,Marketing,Specialist,Japan,Bogotá,employee15@example.com,-8274,30/08/2018,45392,16652,FALSE,A,TRUE,Contract,Active,24/11/2021
+16,Ava,Davis,Male,56,Finance,Manager,UK,São Paulo,employee16@example.com,-2919,30/11/2021,63375,9572,TRUE,C,TRUE,Full-time,Terminated,26/05/2023
+17,Alex,Davis,Male,50,Sales,Specialist,Japan,Berlin,employee17@example.com,-5448,05/10/2017,60417,12276,FALSE,D,TRUE,Full-time,Terminated,15/01/2020
+18,Ethan,Miller,Male,58,IT,Coordinator,India,Madrid,employee18@example.com,-6204,14/03/2020,69582,782,TRUE,B,TRUE,Contract,Active,28/06/2022
+19,Liam,Lopez,Female,24,HR,Coordinator,USA,Toronto,employee19@example.com,-1969,01/01/2016,94339,13993,TRUE,A,FALSE,Contract,On Leave,05/03/2020
+20,Noah,Miller,Female,39,HR,Specialist,Japan,São Paulo,employee20@example.com,-6874,30/06/2020,67079,13024,FALSE,A,FALSE,Contract,On Leave,18/07/2022
+21,Ava,Davis,Male,22,IT,Analyst,Brazil,London,employee21@example.com,-6753,10/02/2017,65622,16757,FALSE,D,TRUE,Full-time,Terminated,30/08/2021
+22,Maria,Martinez,Male,39,Finance,Engineer,Spain,São Paulo,employee22@example.com,-4360,12/02/2014,100569,12958,FALSE,C,TRUE,Full-time,On Leave,08/12/2019
+23,Noah,Smith,Female,40,Sales,Analyst,Colombia,Mumbai,employee23@example.com,-3153,08/03/2012,108356,16963,TRUE,C,TRUE,Contract,Active,24/02/2016
+24,Emma,Johnson,Female,34,IT,Analyst,Canada,Bogotá,employee24@example.com,-5222,05/04/2021,39122,12999,TRUE,A,FALSE,Full-time,Active,14/09/2015
+25,Sofia,Lopez,Female,60,Legal,Analyst,USA,New York,employee25@example.com,-9058,21/05/2018,72522,11587,FALSE,D,TRUE,Full-time,Active,15/06/2020
+26,Alex,Brown,Female,27,Finance,Analyst,Canada,Berlin,employee26@example.com,-5511,03/05/2013,75389,19366,FALSE,D,FALSE,Contract,Active,14/09/2016
+27,Noah,Lopez,Female,40,Operations,Assistant,USA,Berlin,employee27@example.com,-9681,21/01/2014,40462,546,FALSE,C,TRUE,Part-time,Terminated,19/01/2023
+28,Noah,Garcia,Female,48,Marketing,Engineer,Japan,London,employee28@example.com,-2366,19/12/2010,69447,11176,FALSE,C,TRUE,Part-time,Active,19/05/2020
+29,Ava,Brown,Female,29,Legal,Analyst,Germany,Bogotá,employee29@example.com,-2515,14/08/2018,78479,14948,FALSE,B,TRUE,Full-time,Active,18/05/2019
+30,Liam,Miller,Female,35,Legal,Consultant,Germany,Tokyo,employee30@example.com,-2919,23/04/2021,61840,6933,TRUE,C,TRUE,Part-time,Active,26/09/2021
+31,Alex,Davis,Female,59,Sales,Coordinator,India,Toronto,employee31@example.com,-4229,04/05/2014,114512,7232,FALSE,A,TRUE,Part-time,On Leave,26/05/2020
+32,Ethan,Johnson,Female,50,Customer Support,Engineer,France,Paris,employee32@example.com,-6027,06/08/2020,101846,15046,FALSE,B,FALSE,Full-time,Active,18/12/2017
+33,Ava,Garcia,Female,41,IT,Assistant,UK,Tokyo,employee33@example.com,-2778,09/12/2015,116819,8207,FALSE,C,FALSE,Part-time,Active,14/11/2022
+34,John,Garcia,Male,35,Customer Support,Engineer,UK,Tokyo,employee34@example.com,-8865,21/09/2017,99308,1935,TRUE,B,FALSE,Contract,Active,15/07/2018
+35,Olivia,Jones,Male,23,IT,Engineer,India,London,employee35@example.com,-3290,20/09/2015,44553,16742,FALSE,A,FALSE,Full-time,Active,06/03/2016
+36,Ethan,Jones,Female,41,Legal,Engineer,India,Toronto,employee36@example.com,-3492,24/11/2020,80415,8149,TRUE,D,FALSE,Part-time,Terminated,19/12/2017
+37,John,Garcia,Female,43,Customer Support,Consultant,Spain,Bogotá,employee37@example.com,-8985,07/12/2020,117922,3972,FALSE,C,FALSE,Part-time,Terminated,11/09/2022
+38,John,Martinez,Female,23,Marketing,Specialist,Germany,Paris,employee38@example.com,-4846,23/10/2015,112622,14045,FALSE,D,TRUE,Full-time,Active,11/01/2021
+39,Sofia,Miller,Male,50,Legal,Specialist,UK,Bogotá,employee39@example.com,-3513,24/12/2013,56773,3667,TRUE,B,TRUE,Full-time,On Leave,14/08/2022
+40,Liam,Smith,Male,24,Legal,Analyst,Canada,Paris,employee40@example.com,-10198,21/11/2022,93676,3614,TRUE,C,FALSE,Part-time,Active,21/07/2021
+41,Sofia,Williams,Male,51,IT,Assistant,Canada,London,employee41@example.com,-4233,07/12/2022,79862,19430,TRUE,B,FALSE,Full-time,Terminated,11/02/2016
+42,Olivia,Smith,Male,33,Legal,Specialist,France,Mumbai,employee42@example.com,-1576,11/07/2018,117023,18789,FALSE,A,TRUE,Contract,Terminated,14/01/2017
+43,Noah,Johnson,Female,51,IT,Analyst,Brazil,New York,employee43@example.com,-8307,18/03/2011,114393,14057,TRUE,D,TRUE,Contract,Terminated,07/02/2023
+44,Liam,Garcia,Male,33,Customer Support,Engineer,Colombia,Madrid,employee44@example.com,-4528,08/01/2019,109545,1455,TRUE,D,FALSE,Contract,Active,19/12/2017
+45,Olivia,Garcia,Male,52,Legal,Analyst,Germany,New York,employee45@example.com,-4555,23/11/2011,91537,8665,FALSE,D,FALSE,Contract,On Leave,06/04/2023
+46,Maria,Garcia,Female,22,Finance,Coordinator,Canada,London,employee46@example.com,-8651,29/03/2013,99424,5701,FALSE,B,TRUE,Contract,Active,09/09/2016
+47,Sofia,Williams,Female,48,Marketing,Engineer,Germany,Madrid,employee47@example.com,-5225,17/05/2012,106403,2659,FALSE,A,FALSE,Part-time,On Leave,28/12/2020
+48,Sofia,Brown,Female,57,IT,Engineer,India,Tokyo,employee48@example.com,-7811,06/02/2015,70883,13885,TRUE,B,FALSE,Contract,On Leave,12/06/2019
+49,Liam,Brown,Female,38,HR,Analyst,UK,São Paulo,employee49@example.com,-4008,08/12/2010,56367,7297,FALSE,B,FALSE,Part-time,On Leave,03/02/2016
+50,Sofia,Lopez,Female,47,IT,Manager,India,London,employee50@example.com,-6603,23/12/2013,71956,5991,TRUE,B,TRUE,Contract,Terminated,05/08/2023
