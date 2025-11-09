@@ -1,2 +1,2 @@
-username = 'johan.robelto.bayona_outlook.com#EXT#@johanrobeltobayonaoutlook.onmicrosoft.com'
+username = 'johan.robelto.bayona@johanrobeltobayonaoutlook.onmicrosoft.com'
 password = 'Outnano92'
