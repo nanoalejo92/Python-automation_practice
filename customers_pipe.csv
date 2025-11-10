@@ -1,0 +1,5 @@
+CustomerID|NameStyle|Title|FirstName|MiddleName|LastName|Suffix|CompanyName|SalesPerson|EmailAddress|Phone|PasswordHash|PasswordSalt|rowguid|ModifiedDate
+1|True|Mr.|Michael|E.|Jones|Sr.|BrightCorp|adventure-works\pamela0|dseoi@example.com|(571) 112-3134|4279bf422d40c9e7fd511e699c94b83740d2d9885261b93db4a1728a017329a1|hOiGWAdS|20e37dc8-e885-43ee-8303-60ded22c8ab4|2025-11-09 16:54:49
+2|True|Ms.|Alice|C.|Johnson|Sr.|InnovaGroup|adventure-works\david1|gbueu@example.com|(575) 599-2502|a11dcc6aa2888398b2493b376b4c2e71d08e9dfb51f90c6186d3bd1cb23d44bc|GxmAUhxi|470372ee-ab34-4b95-9015-2d5e364e6041|2025-11-09 16:54:49
+3|False|Dr.|Sarah|A.|Jones|III|DataWorks|adventure-works\david1|avyjq@example.com|(991) 137-5233|15c38500266d85713746c18dee08a19172190b5bd11a5318b56a50e9e7c7799c|EutEBSMO|a6055526-6fde-4743-9aba-fa7a50f12eb4|2025-11-09 16:54:49
+4|False|Ms.|Alice|C.|Williams|III|TechNova|adventure-works\pamela0|uvoaw@example.com|(478) 406-8667|5e44a93d59a5bbad16dd2ea692c7e405f9796497cff022e4603a273ce9f9e1ea|tvvUkXWf|e7cf6276-8102-4048-981f-317e41bee1b6|2025-11-09 16:54:49
