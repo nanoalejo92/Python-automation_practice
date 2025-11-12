@@ -1,0 +1,11 @@
+CustomerID|Name_Style|Title|First_Name|Middle_Name|Last_Name|Suffix|Company_Name|Sales_Person|Email_Address|Phone|Password_Hash|Password_Salt|rowguid|Modified_Date
+1|True|Mrs.|Sam|A.|Lee|Sr.|Wayne Enterprises|adventure-works\frank1|sam.lee@company.com|(743) 526-7003|ce2ad6c7472943aca5c79abf39da0af8|e7b0179c|a61de97a-84d0-4a60-8201-92a7445799ed|2025-11-11 00:29:26
+2|False|Mrs.|John|D.|Johnson|III|Initech|adventure-works\frank1|john.johnson@example.com|(628) 159-2235|6c03b16951c1425591ad84b52f31bd71|c3843793|68dc3481-4564-44c8-a7a8-56421140fb1f|2025-11-11 00:29:26
+3|False|Mx.|Taylor|A.|Garcia||Globex|adventure-works\frank1|taylor.garcia@example.com|(779) 773-2688|b7249f0de11c4138af319e3aeafb30dd|4fc2c9ba|a59fb59e-b728-4ad7-9188-6d89e23b17f6|2025-11-11 00:29:26
+4|False|Ms.|Chris|B.|Brown|Jr.|Hooli|adventure-works\carol2|chris.brown@bizmail.com|(982) 144-6551|f1b73ca4ac954355afe3a617cb3e6ccd|2236ddb0|68fe47e7-5f64-4c51-9f90-4b32bc67c2fb|2025-11-11 00:29:26
+5|False|Mrs.|Alex|B.|Lee|Jr.|Wonka Ltd|adventure-works\carol2|alex.lee@example.com|(211) 556-6509|d285810fb6f347e6bb176c216ace768a|3995601f|4954b2c1-9c3a-46ee-859f-d729c86d531f|2025-11-11 00:29:26
+6|False|Mx.|Taylor|A.|Johnson|Jr.|Wonka Ltd|adventure-works\pamela0|taylor.johnson@example.com|(762) 716-1084|7d5eb7af3263477bb8057e4dc1c22389|7f20130f|613da679-c945-47e5-8794-c572957498f0|2025-11-11 00:29:26
+7|True|Ms.|Jane|A.|Davis|III|Wonka Ltd|adventure-works\dan3|jane.davis@email.com|(422) 773-3002|2eb7ee6b85594e12a396d4a404b6ba3d|8887e3f8|04cd15b6-2858-4f21-821d-330138c257c2|2025-11-11 00:29:26
+8|False|Mx.|Sam|C.|Brown|Jr.|Umbrella Inc|adventure-works\carol2|sam.brown@email.com|(732) 752-4694|fc0dec6b0b4b4fe8ac44c276aff628fa|31adbf96|e23f684c-e65d-4f79-81e9-289dde9215a7|2025-11-11 00:29:26
+9|False|Mrs.|Alex|A.|Lee|Jr.|Soylent|adventure-works\carol2|alex.lee@email.com|(676) 750-3020|52790b336bd9463185177a6254dc3952|4a64f3ea|86b727e0-ae38-4085-b5cc-201481fa7cd2|2025-11-11 00:29:26
+10|True|Mx.|Chris|C.|Martinez|III|Umbrella Inc|adventure-works\pamela0|chris.martinez@email.com|(938) 357-3566|56e4ef68a1c94fb5b8c05e3324e4ef1d|9a9f50f6|57944df4-a66f-4bf1-b7d6-365f93b2ba9e|2025-11-11 00:29:26
